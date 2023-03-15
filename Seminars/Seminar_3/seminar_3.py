@@ -5,7 +5,7 @@
 
 
 # import random
-# numbers = [random.randint(0, 100) for _ in range(10)] чтобы вывести рандомные значения
+# numbers = [random.randint(0, 10) for _ in range(10)] #чтобы вывести рандомные значения
 
 # Вариант 1
 # numbers = [1, 2, 3, 1, 1, 5, 10, 20, 20, 30]
@@ -43,9 +43,9 @@
 # Input: [1, 2, 3, 4, 5] k = 3
 # Output: [4, 5, 1, 2, 3]
 
-numbers = [1, 2, 3, 4, 5, 6]
-k = 3
-k = k % len(numbers)
+# numbers = [1, 2, 3, 4, 5, 6]
+# k = 3
+# k = k % len(numbers)
 
 #Вариант 1
 # list_result = []
