@@ -81,3 +81,4 @@
 # result = [key for letter in word_ru for key, value in dict_ru.items() if letter in value]
 
 # print(f"Ваш счет: ", sum(result))
+
